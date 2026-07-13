@@ -127,26 +127,7 @@ Real-time video conferencing platform built on the MERN stack, using WebRTC for 
 
 ### 🐍 Contribution Snake
 
-<!--
-  One-time setup to activate this section:
-  1. Add the snake-workflow.yml file (provided separately) to
-     .github/workflows/snake.yml in your Imran1870/Imran1870 repo.
-  2. Settings → Actions → General → Workflow permissions →
-     enable "Read and write permissions".
-  3. Run it once from the Actions tab (or wait for the daily cron).
-  4. Once the `output` branch exists, delete these comment markers
-     (the "<!--" above the div and the "-->" below it).
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imran1870/Imran1870/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imran1870/Imran1870/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Imran1870/Imran1870/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
--->
-
----
 
 ### 🤝 Connect with Me
 
