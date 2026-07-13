@@ -1,57 +1,173 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Software+Engineer;Welcome+to+my+Creative+Profile" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B3A,50:6B3FA0,100:2DD4BF&height=120&section=header" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=26&pause=1000&color=FFC857&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Imran+%F0%9F%91%8B;CS+Undergrad+%40+PEC+Chandigarh;Competitive+Programmer+%7C+450%2B+Problems+Solved;Building+with+GenAI+%26+the+MERN+Stack" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <i>Third-year CS student pairing competitive-programming rigor with product engineering — from RAG pipelines to real-time video infrastructure.</i>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships-2DD4BF?style=for-the-badge" alt="Open to internships" />
+</div>
+
+<br/>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **GenAI and Backend Projects**
-- 🌱 I’m currently learning **GenAI and LLM Workflow**
-- 💬 Ask me about **React, Node.js, Python,C++,DSA and UI/UX**
-- 📫 How to reach me: **imranahmad250106@gmail.com**
-- ⚡ Fun fact: **I love combining code and creativity!**
+- 🎓 3rd-year B.Tech CSE student @ **Punjab Engineering College, Chandigarh**
+- 🏆 Competitive programmer — **450+ LeetCode problems solved**, **CodeChef 2★**
+- 🔭 Currently building **GenAI-powered tools & full-stack web apps**
+- 🌱 Currently exploring **LLM workflows, LangChain & RAG pipelines**
+- 💬 Ask me about **React, Node.js, Python, C++, DSA & UI/UX**
+- 📫 Reach me at **imranahmad250106@gmail.com**
+- ⚡ Fun fact: I care as much about how the code *looks* as how it runs
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+**Backend & Database**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+<br/><br/>
+
+**AI / GenAI**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-2DD4BF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-FFC857?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-6B3FA0?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+**🧩 [LeetCode Snippet Expander](https://github.com/Imran1870/Leetcode-snippet-expander)**
+<br/>
+Chrome extension that expands collapsed LeetCode code snippets, built on the Monaco Editor API.
+<br/>
+`Manifest V3` `Monaco Editor API` `Chrome Extension`
+
+**📈 Equity Research Analyst AI**
+<!-- add repo link once public -->
+<br/>
+A RAG-powered financial research assistant that retrieves and reasons over equity data using LangChain and Gemini, backed by a FAISS vector store.
+<br/>
+`LangChain` `Gemini API` `FAISS` `RAG` `Python`
+
+**🎥 Milaap**
+<!-- add repo link once public -->
+<br/>
+Real-time video conferencing platform built on the MERN stack, using WebRTC for peer connections and Socket.io for signaling.
+<br/>
+`MongoDB` `Express` `React` `Node.js` `WebRTC` `Socket.io`
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imran1870&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imran1870&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imran1870&show_icons=true&hide_border=true&bg_color=1A1B3A&title_color=FFC857&icon_color=2DD4BF&text_color=E5E5E5" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Imran1870&hide_border=true&background=1A1B3A&ring=FFC857&fire=FFC857&currStreakLabel=2DD4BF&sideLabels=2DD4BF&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=8888B0" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran1870&layout=compact&hide_border=true&bg_color=1A1B3A&title_color=FFC857&text_color=E5E5E5" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Imran1870&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imran1870&bg_color=1A1B3A&color=E5E5E5&line=2DD4BF&point=FFC857&title_color=FFC857&area=true&area_color=2DD4BF&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<!--
+  One-time setup to activate this section:
+  1. Add the snake-workflow.yml file (provided separately) to
+     .github/workflows/snake.yml in your Imran1870/Imran1870 repo.
+  2. Settings → Actions → General → Workflow permissions →
+     enable "Read and write permissions".
+  3. Run it once from the Actions tab (or wait for the daily cron).
+  4. Once the `output` branch exists, delete these comment markers
+     (the "<!--" above the div and the "-->" below it).
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imran1870/Imran1870/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imran1870/Imran1870/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Imran1870/Imran1870/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+-->
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/imran-ahmad-6931b6311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://imran-neon.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:imranahmad250106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFC857?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+</div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran1870&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Imran1870&style=for-the-badge&color=2DD4BF" alt="Profile views" />
 </div>
 
----
-
-### 🤝 Connect with me
-
 <div align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/imran-ahmad-6931b6311/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  
-  <a href="https://https://imran-neon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-</div>
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:6B3FA0,100:1A1B3A&height=120&section=footer" />
 </div>
