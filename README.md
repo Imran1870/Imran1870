@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=26&duration=1750&pause=650&color=FFC857&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Imran+%F0%9F%91%8B;CS+Undergrad+%40+PEC+Chandigarh;Competitive+Programmer+%7C+450%2B+Problems+Solved;Building+with+GenAI+%26+the+MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=26&duration=1750&pause=650&color=FFC857&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Imran+%F0%9F%91%8B;CS+Undergrad+%40+PEC+Chandigarh;%7C+500%2B+Problems+Solved+in+DSA;Building+with+GenAI+%26+the+MERN+Stack" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <i>Third-year CS student pairing competitive-programming rigor with product engineering — from RAG pipelines to real-time video infrastructure.</i>
+  <i>Third-year CS student with efficient Problem Solving Skill and Efficient MERN Developer, integrating with GENAI</i>
 </p>
 
 <div align="center">
@@ -21,12 +21,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year B.Tech CSE student @ **Punjab Engineering College, Chandigarh**
-- 🏆 Competitive programmer — **450+ LeetCode problems solved**, **CodeChef 2★**
+- 🏆 Programmer — **500+ LeetCode problems solved**, **CodeChef 2★**
 - 🔭 Currently building **GenAI-powered tools & full-stack web apps**
 - 🌱 Currently exploring **LLM workflows, LangChain & RAG pipelines**
 - 💬 Ask me about **React, Node.js, Python, C++, DSA & UI/UX**
 - 📫 Reach me at **imranahmad250106@gmail.com**
-- ⚡ Fun fact: I care as much about how the code *looks* as how it runs
 
 ---
 
@@ -37,7 +36,6 @@
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
@@ -72,35 +70,13 @@
 **Tools & Platforms**
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
 
-**🧩 [LeetCode Snippet Expander](https://github.com/Imran1870/Leetcode-snippet-expander)**
-<br/>
-Chrome extension that expands collapsed LeetCode code snippets, built on the Monaco Editor API.
-<br/>
-`Manifest V3` `Monaco Editor API` `Chrome Extension`
-
-**📈 Equity Research Analyst AI**
-<!-- add repo link once public -->
-<br/>
-A RAG-powered financial research assistant that retrieves and reasons over equity data using LangChain and Gemini, backed by a FAISS vector store.
-<br/>
-`LangChain` `Gemini API` `FAISS` `RAG` `Python`
-
-**🎥 Milaap**
-<!-- add repo link once public -->
-<br/>
-Real-time video conferencing platform built on the MERN stack, using WebRTC for peer connections and Socket.io for signaling.
-<br/>
-`MongoDB` `Express` `React` `Node.js` `WebRTC` `Socket.io`
 
 ---
 
@@ -142,13 +118,13 @@ Real-time video conferencing platform built on the MERN stack, using WebRTC for 
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/imran-ahmad-6931b6311/">
+  <a target="_blank" href="https://www.linkedin.com/in/imran-ahmad-6931b6311/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://imran-neon.vercel.app/">
+  <a target="_blank" href="https://imran-neon.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:imranahmad250106@gmail.com">
+  <a target="_blank" href="mailto:imranahmad250106@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFC857?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
 </div>
