@@ -83,17 +83,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imran1870&show_icons=true&hide_border=true&bg_color=1A1B3A&title_color=FFC857&icon_color=2DD4BF&text_color=E5E5E5" alt="GitHub Stats" />
+ 
   <img height="165" src="https://streak-stats.demolab.com/?user=Imran1870&hide_border=true&background=1A1B3A&ring=FFC857&fire=FFC857&currStreakLabel=2DD4BF&sideLabels=2DD4BF&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=8888B0" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran1870&layout=compact&hide_border=true&bg_color=1A1B3A&title_color=FFC857&text_color=E5E5E5" alt="Top Languages" />
+ 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imran1870&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imran1870&bg_color=1A1B3A&color=E5E5E5&line=2DD4BF&point=FFC857&title_color=FFC857&area=true&area_color=2DD4BF&hide_border=true" alt="Activity Graph" />
